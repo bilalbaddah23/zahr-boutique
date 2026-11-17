@@ -1,0 +1,184 @@
+{
+  "brand": "Zahr Boutique",
+  "contactMode": "whatsapp",
+  "phone": "96170791887",
+  "displayPhone": "+961 70 791 887",
+  "instagram": "https://www.instagram.com/zahr.boutique/",
+  "hours": "Confirm opening hours with the shop",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-10.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-06.jpg"
+  ],
+  "products": [
+    {
+      "id": "denim-layered-set",
+      "name": "Denim Layered Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey denim-look belted jacket styled with wide-leg matching trousers. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/Df1pa0EI9sZ/"
+    },
+    {
+      "id": "plum-ruffled-look",
+      "name": "Plum Ruffled Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A plum-coloured long knit top with ruffled panels styled with matching trousers, shown in full-length and closer views. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/Df1jg61IY21/"
+    },
+    {
+      "id": "cape-shoulder-look",
+      "name": "Cape Shoulder Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark brown shirt-jacket silhouette with a patterned cape-like shoulder layer, styled with a dark skirt. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/Df1b6TAolsL/"
+    },
+    {
+      "id": "chevron-coordinated-set",
+      "name": "Chevron Coordinated Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A navy top with a large white chevron detail and matching trousers, plus a pale alternative presented on a hanger. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg",
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/Df0VNM3B-0F/"
+    },
+    {
+      "id": "light-knit-skirt-look",
+      "name": "Light Knit Skirt Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light long-sleeved knit top styled with a dark midi skirt; a pink top colour presentation is also shown. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/Df0CevuBMV3/"
+    },
+    {
+      "id": "contrast-trim-zip-set",
+      "name": "Contrast Trim Zip Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Relaxed zip-front tops with narrow light piping and matching trousers, photographed in navy and plum-coloured versions. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg",
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/DfzOvEAorKV/"
+    },
+    {
+      "id": "denim-vest-layer",
+      "name": "Denim Vest Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A grey denim-look belted sleeveless layer styled over a white top and dark skirt. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/Dfw0jcJoccb/"
+    },
+    {
+      "id": "dark-longline-set",
+      "name": "Dark Longline Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark longline top with a softly textured vertical appearance and wide-leg trousers. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/DfwjV6-ItT5/"
+    },
+    {
+      "id": "quilted-layered-look",
+      "name": "Quilted Layered Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark quilted outer layer styled over a coordinating top and trousers with a patterned scarf. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/zahr.boutique/reel/DfwZaLoo_2N/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

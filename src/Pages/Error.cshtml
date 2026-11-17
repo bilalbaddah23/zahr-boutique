@@ -1,0 +1,4 @@
+@page "/error"
+@attribute [Microsoft.AspNetCore.Mvc.IgnoreAntiforgeryToken]
+@{Response.StatusCode=500;ViewData["Title"]="A little interruption";}
+<section class="empty-state tall"><h1>A little <em>interruption.</em></h1><p>Please try again in a moment. Your bag and favourites remain in this browser.</p><a class="button" href="/">Return to Zahr Boutique ↗</a></section>

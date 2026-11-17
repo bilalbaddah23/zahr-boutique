@@ -1,0 +1,5 @@
+@model Product
+<article class="product-card" data-product="@Model.Id" data-name="@Model.Name" data-collection="@Model.Collection" data-audience="@Model.Audience" data-family="@Model.Family" data-search="@(Model.Name+" "+Model.Description+" "+string.Join(" ",Model.Notes)+" "+Model.Collection+" "+Model.Family)" data-price="@Model.Price">
+<div class="product-photo"><a href="/product/@Model.Id" aria-label="Discover @Model.Name"><img src="@Model.Images[0]" alt="@Model.Name by Zahr Boutique" loading="lazy" width="810" height="1080"/></a>@if(Shop.ShowAudience){<span class="product-tag">@Model.Audience</span>}<button class="save-button" type="button" disabled data-save="@Model.Id" aria-label="Save @Model.Name" aria-pressed="false"><partial name="_Icon" model='@("heart")'/></button><a class="card-discover" href="/product/@Model.Id">Discover piece <span>↗</span></a></div>
+<div class="product-caption"><div><p>@Model.Collection</p><h3><a href="/product/@Model.Id">@Model.Name</a></h3>@if(!string.IsNullOrEmpty(Model.Family)){<span>@Model.Family</span>}</div><span class="price">@Model.PriceLabel</span></div>
+</article>

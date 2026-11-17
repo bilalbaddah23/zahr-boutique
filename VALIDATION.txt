@@ -1,0 +1,16 @@
+Zahr Boutique — VERIFIED RELEASE (2026-11-17)
+
+PASS: ASP.NET Core10 Windows x64 framework-dependent publish.
+PASS: 19 HTTP page/example routes, all internal links and local image assets.
+PASS: server search/filter/empty state, unknown/private paths, security headers, compression/cache.
+PASS: server enquiry validation, correct contact destination, CSRF, malformed/tampered inputs and per-IP request limits.
+PASS: Collection filters/search, saved persistence/clear, photo viewers/zoom, bag add/quantity/remove, required-field feedback, correct-contact draft/copy/edit, style guide and gallery navigation.
+PASS: desktop1440px and phone390px on six main pages,360px home, mobile menu/Escape.
+PASS: JavaScript and PowerShell syntax, source/release parity, contact/catalogue/photo audits.
+PASS: saved desktop/phone screenshots and zero browser console errors.
+
+All tests used the local compiled release with synthetic details. No messages were sent, orders placed or payments processed. No live VPS, IIS installation, registered DNS, HTTPS certificate or production load test is claimed. Deployment PowerShell was syntax-checked, not executed against IIS here.
+
+Research and original photo provenance are in research/. Prices, stock, materials, sizing and final project/order terms need owner confirmation. Images are public-source stills, including Reel covers where documented. No imagery was generated for this build, no video files are embedded and no video frames were extracted. No matching official website was found in the checked public links and bounded name/handle/contact searches; an unlisted website cannot be ruled out.
+
+No payment gateway, owner admin/CMS, customer accounts or order database is included. Prepared enquiries are not sent automatically.

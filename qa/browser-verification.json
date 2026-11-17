@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-17",
+  "desktop": {
+    "heroLoaded": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  "checks": [
+    "Search/empty/category, favourite reload persistence/clear, product zoom/thumbnail where present, bag add/increase/remove, required feedback, correct-contact draft/copy/edit",
+    "Style finder with gift option, gallery filter/reset/viewer/next/Escape and global search suggestions"
+  ],
+  "responsive": [
+    {
+      "route": "/",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/shop",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/product/denim-layered-set",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/lookbook",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/contact",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/checkout",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "additional360": {
+    "scrollWidth": 345,
+    "width": 360
+  },
+  "result": "PASS",
+  "consoleErrors": [],
+  "screenshots": [
+    "desktop-home.jpg",
+    "mobile-home.jpg"
+  ],
+  "scope": "Local compiled ASP.NET Core10 release; synthetic enquiry drafts only. No messages sent, payments or VPS deployment."
+}

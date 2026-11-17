@@ -1,0 +1,550 @@
+{
+  "brand": "Zahr Boutique",
+  "handle": "zahr.boutique",
+  "instagram": "https://www.instagram.com/zahr.boutique/",
+  "contactMode": "whatsapp",
+  "phone": "96170791887",
+  "displayPhone": "+961 70 791 887",
+  "hours": "Confirm opening hours with the shop",
+  "followersObserved": null,
+  "followersDisplay": "296K",
+  "latestVisiblePost": "2026-11-17",
+  "researchDate": "2026-11-17",
+  "profileBio": "✨ Where Style Meets Perfection ✨\n📍1st Branch | Beirut -Bir Al Abed\n📍2nd Branch | Centro mall @zahr.premium\n👇🏻 Contact",
+  "bioLinks": [
+    "https://wa.me/96170791887"
+  ],
+  "branches": [],
+  "about": "Zahr Boutique shares modest fashion, coordinated looks and seasonal layers. Its public profile lists Bir Al Abed and Centro Mall locations, with the premium collection page at @zahr.premium. Contact the official WhatsApp to confirm current details or arrange a visit.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-08.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-04.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-05.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-07.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-11.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "denim-layered-set",
+      "name": "Denim Layered Set",
+      "category": "Coordinated looks",
+      "description": "A grey denim-look belted jacket styled with wide-leg matching trousers. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1pa0EI9sZ/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "plum-ruffled-look",
+      "name": "Plum Ruffled Look",
+      "category": "Knitwear",
+      "description": "A plum-coloured long knit top with ruffled panels styled with matching trousers, shown in full-length and closer views. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-02.jpg",
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1jg61IY21/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "cape-shoulder-look",
+      "name": "Cape Shoulder Look",
+      "category": "Outer layers",
+      "description": "A dark brown shirt-jacket silhouette with a patterned cape-like shoulder layer, styled with a dark skirt. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1b6TAolsL/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "chevron-coordinated-set",
+      "name": "Chevron Coordinated Set",
+      "category": "Coordinated looks",
+      "description": "A navy top with a large white chevron detail and matching trousers, plus a pale alternative presented on a hanger. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-04.jpg",
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df0VNM3B-0F/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "light-knit-skirt-look",
+      "name": "Light Knit Skirt Look",
+      "category": "Knitwear",
+      "description": "A light long-sleeved knit top styled with a dark midi skirt; a pink top colour presentation is also shown. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df0CevuBMV3/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "contrast-trim-zip-set",
+      "name": "Contrast Trim Zip Set",
+      "category": "Coordinated looks",
+      "description": "Relaxed zip-front tops with narrow light piping and matching trousers, photographed in navy and plum-coloured versions. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-06.jpg",
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfzOvEAorKV/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "denim-vest-layer",
+      "name": "Denim Vest Layer",
+      "category": "Outer layers",
+      "description": "A grey denim-look belted sleeveless layer styled over a white top and dark skirt. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Dfw0jcJoccb/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "dark-longline-set",
+      "name": "Dark Longline Set",
+      "category": "Coordinated looks",
+      "description": "A dark longline top with a softly textured vertical appearance and wide-leg trousers. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfwjV6-ItT5/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "quilted-layered-look",
+      "name": "Quilted Layered Look",
+      "category": "Outer layers",
+      "description": "A dark quilted outer layer styled over a coordinating top and trousers with a patterned scarf. Confirm the exact included garments, current price, measurements, colours and availability with Zahr Boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfwZaLoo_2N/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "index": 1,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/914384598_18439585990177570_617859219854523987_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lAU1H7rQ-VIQ7kNvwE0rR98&_nc_oc=AdppRYChweIVkYlxxBe3vPN6J9bK_C3UV3SZ4tAGliz1iMA06f5TniBd94UdavJkQgg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQDQReQ_X8nMqnWlo83ixddOuxFs07SuzmWRPgXZ9XFsg&oe=6B02610D",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1pa0EI9sZ/",
+      "width": 360,
+      "height": 640,
+      "sha256": "6831777ee65f7039fb3d554fc0ec9f830331d6e2669aeb3d136ee2b80a45e5d1",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 2,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/911106893_18439581478177570_161077840307688379_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=I-3-6FSZcxoQ7kNvwEV95y7&_nc_oc=Ado28Y69wBbPkuKGGwUT98QRRIGVDqqQ9_DOySeLp-4mOBVKqzA1W_DyMEaqBvbbSxU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQNuYLRNDELD7Z7xCbr1aSqdvRPmGfE2RmQdosx_txXPQ&oe=6B0281C7",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1jg61IY21/",
+      "width": 360,
+      "height": 640,
+      "sha256": "8c81b184e32300590b3ed6fdea4f3d3c34b683d68dbfb368b35463cd731714b5",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 3,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/915820061_18439575805177570_6651771301454519386_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AT3cTJ4tOtMQ7kNvwGuqBfX&_nc_oc=AdoTKV-B0wJwJkaM2MpA-pKZyc8Ha7TLmJaRDJrP4tKbLcmqJEoyDVMNzhRMjT3kmtY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTLdM2N08_S8rb6EjRMm5OjKKrnXqZHgjCIOBJN_N83ag&oe=6B026C63",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1b6TAolsL/",
+      "width": 360,
+      "height": 640,
+      "sha256": "3b29204a81e8f6c83b76851bf570f1c650f01f75fe1ee94de31ce0c7d791a435",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 4,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/914247182_18439495759177570_7734161554958840609_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=r2C_QHWjq8kQ7kNvwHrjZuA&_nc_oc=AdpnfBcczfDISXV1FzYooEMQFz81AluurmI0I5ZwepxtGYOVKeMi9JnXwR4gt-DngeY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTIr5r8y8oXoNiDUYFfkkluhRFigMEBMgg07P3eqa60pw&oe=6B025537",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df0VNM3B-0F/",
+      "width": 360,
+      "height": 640,
+      "sha256": "56d5d6c949fced267543f77e0b6c524c9636df41617af908036f1513dd3b1494",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 5,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/907515306_1849454606076411_4087360396066288197_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=stEDKC60jPkQ7kNvwFftBIs&_nc_oc=AdpN0OfYYJvLJn10yJv4wR2cMRasYYgtodufjK9E-3vwxMATqKL-1pMMx04QEPjTtq8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSMYTrdnDimYZ4OsNXd4WXrVnRKjjD2QvvPv8PFYr5ujA&oe=6B024FE5",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df0CevuBMV3/",
+      "width": 361,
+      "height": 640,
+      "sha256": "c3c6e785f7f6c96092853178bcb6ab4b2baa82443afc94152548edab5c0ec975",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 6,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912161499_18439400494177570_5798620602175565364_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kqvCbN2ayloQ7kNvwErtZLL&_nc_oc=AdoZ0vDJ2Jf0GZmDNv9nKpNQ3bhIr0xXcCFCLavG9wFSv5pOYIYpVxtrZqw6oIewFlo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTx7FCPK3fyejjHmggPBFjRTtak-GTf-ls_ISkVmlTSMw&oe=6B026231",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfzOvEAorKV/",
+      "width": 360,
+      "height": 640,
+      "sha256": "69b031fb7c386bbe198eff365721999591cd0c62a8f3b680caa1c93b7a4a0595",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 7,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910828296_18439382740177570_9132153753352062348_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1mltJuCLBCYQ7kNvwFfw1tC&_nc_oc=AdrFX8s8Yb_i1x31UO3FIfaPSSPRCVFQSTca-ttzJnXvahumdGvbGG-Q8xTacaVr2fY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQiKKie0OaQ6Tw3aXVo1w6R2pQLFIup9Ut6mlcysePFtA&oe=6B0267BF",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Dfy-iCMINDF/",
+      "width": 360,
+      "height": 640,
+      "sha256": "c30bb60213074839def962aff229cdceee40d1e19aaa14f21906ee8494859ecb",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 8,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896596838_18439214665177570_3654920960288366807_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5uKuW_t8c4kQ7kNvwEXhc1K&_nc_oc=AdrJ49mfKQxixvFpIFbE5SPGuAJkZRUcN8WGqM43WenKuArHls89YsDjSs4lv7SJg-s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRn-gJ8D46jAWhlS5U6KFulusNjpF7uyL5RZFnF7Br96A&oe=6B027078",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Dfw0jcJoccb/",
+      "width": 360,
+      "height": 640,
+      "sha256": "715b73d3a55e26b2e8fda4f6a51f5605ee783ad7015dc21b3557d5032086fea2",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 9,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902094607_18439185664177570_7618000857177152949_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=F8O6y5ZZ83wQ7kNvwGL-wET&_nc_oc=AdqLoEJS8NWN-AyAWLTI18eJlSVB_oFJrKiCeSv91UuuE_ISRmj_FtxRaTA0vu7HXeo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQp7cDMKgEdTbAsKRhP7N7ggKntapLsPtUj1Lw4-_u5Cw&oe=6B0265D7",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfwjV6-ItT5/",
+      "width": 360,
+      "height": 640,
+      "sha256": "a04559017b1ba1464f599b9233ddf68ef1173d0c8069edc623e39ae766f7da9e",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 10,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910570410_18439175002177570_647933812025243677_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SthkDG4ofEsQ7kNvwGvFrQM&_nc_oc=Adow-_xRGu6qNBEcxB_WvjBL35AALRFwxiKJObdY80u4nZXfVfE7jmg8Zg24KIB3fng&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRCLyXteB08wPZlNp1Zqte8QQUcC9plrc9EOUeeGd182w&oe=6B027220",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfwZaLoo_2N/",
+      "width": 360,
+      "height": 640,
+      "sha256": "4e1db018d3ec5919fa57b0e06deb21df9aa4f5b5057f150b4393b0af7c6439f7",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 11,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/911029751_18439081828177570_3674670335032288158_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wqCpMeer53kQ7kNvwElzuCp&_nc_oc=Adq8pzSKvq1N4Tw7oeSx_U0KjUvoAY1yWVr0hD-q7wkIv-Hxc1Ou8Zntp5c9zuf2KM0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQT42Ur-4TpMnl6uNXkNWX05VlIGQTMc8CeG-oEPWm-Ndw&oe=6B02596B",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Dfu95Q7Bi_T/",
+      "width": 360,
+      "height": 640,
+      "sha256": "2f2f58a87614c0d1ffd97af6390b36e16a758b3c07146b5226966fb9de8ff06f",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 12,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896705720_18439018156177570_1048081783387335219_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sd3_l59h3XoQ7kNvwGNILGz&_nc_oc=AdqBLXjtydck2qdjpcdsV3_jbFN58JVqCDl3RpuJxVJ7gF697K4HDeoW94XM8fhKNHQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSMWcMQYcXLxQXEC4HnA4kf1NuY0e0tRJqHA1kST9NTXg&oe=6B026DEB",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfuK78noao9/",
+      "width": 360,
+      "height": 640,
+      "sha256": "d28109c5812c14b1fa0891a9d5025d4607e74e02df0897e0580cdafcc4cbf5c4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    }
+  ],
+  "imageProvenance": [
+    {
+      "index": 1,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/914384598_18439585990177570_617859219854523987_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lAU1H7rQ-VIQ7kNvwE0rR98&_nc_oc=AdppRYChweIVkYlxxBe3vPN6J9bK_C3UV3SZ4tAGliz1iMA06f5TniBd94UdavJkQgg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQDQReQ_X8nMqnWlo83ixddOuxFs07SuzmWRPgXZ9XFsg&oe=6B02610D",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1pa0EI9sZ/",
+      "width": 360,
+      "height": 640,
+      "sha256": "6831777ee65f7039fb3d554fc0ec9f830331d6e2669aeb3d136ee2b80a45e5d1",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 2,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/911106893_18439581478177570_161077840307688379_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=I-3-6FSZcxoQ7kNvwEV95y7&_nc_oc=Ado28Y69wBbPkuKGGwUT98QRRIGVDqqQ9_DOySeLp-4mOBVKqzA1W_DyMEaqBvbbSxU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQNuYLRNDELD7Z7xCbr1aSqdvRPmGfE2RmQdosx_txXPQ&oe=6B0281C7",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1jg61IY21/",
+      "width": 360,
+      "height": 640,
+      "sha256": "8c81b184e32300590b3ed6fdea4f3d3c34b683d68dbfb368b35463cd731714b5",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 3,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/915820061_18439575805177570_6651771301454519386_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AT3cTJ4tOtMQ7kNvwGuqBfX&_nc_oc=AdoTKV-B0wJwJkaM2MpA-pKZyc8Ha7TLmJaRDJrP4tKbLcmqJEoyDVMNzhRMjT3kmtY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTLdM2N08_S8rb6EjRMm5OjKKrnXqZHgjCIOBJN_N83ag&oe=6B026C63",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df1b6TAolsL/",
+      "width": 360,
+      "height": 640,
+      "sha256": "3b29204a81e8f6c83b76851bf570f1c650f01f75fe1ee94de31ce0c7d791a435",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 4,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/914247182_18439495759177570_7734161554958840609_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=r2C_QHWjq8kQ7kNvwHrjZuA&_nc_oc=AdpnfBcczfDISXV1FzYooEMQFz81AluurmI0I5ZwepxtGYOVKeMi9JnXwR4gt-DngeY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTIr5r8y8oXoNiDUYFfkkluhRFigMEBMgg07P3eqa60pw&oe=6B025537",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df0VNM3B-0F/",
+      "width": 360,
+      "height": 640,
+      "sha256": "56d5d6c949fced267543f77e0b6c524c9636df41617af908036f1513dd3b1494",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 5,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/907515306_1849454606076411_4087360396066288197_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=stEDKC60jPkQ7kNvwFftBIs&_nc_oc=AdpN0OfYYJvLJn10yJv4wR2cMRasYYgtodufjK9E-3vwxMATqKL-1pMMx04QEPjTtq8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSMYTrdnDimYZ4OsNXd4WXrVnRKjjD2QvvPv8PFYr5ujA&oe=6B024FE5",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Df0CevuBMV3/",
+      "width": 361,
+      "height": 640,
+      "sha256": "c3c6e785f7f6c96092853178bcb6ab4b2baa82443afc94152548edab5c0ec975",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 6,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912161499_18439400494177570_5798620602175565364_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kqvCbN2ayloQ7kNvwErtZLL&_nc_oc=AdoZ0vDJ2Jf0GZmDNv9nKpNQ3bhIr0xXcCFCLavG9wFSv5pOYIYpVxtrZqw6oIewFlo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTx7FCPK3fyejjHmggPBFjRTtak-GTf-ls_ISkVmlTSMw&oe=6B026231",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfzOvEAorKV/",
+      "width": 360,
+      "height": 640,
+      "sha256": "69b031fb7c386bbe198eff365721999591cd0c62a8f3b680caa1c93b7a4a0595",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 7,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910828296_18439382740177570_9132153753352062348_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1mltJuCLBCYQ7kNvwFfw1tC&_nc_oc=AdrFX8s8Yb_i1x31UO3FIfaPSSPRCVFQSTca-ttzJnXvahumdGvbGG-Q8xTacaVr2fY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQiKKie0OaQ6Tw3aXVo1w6R2pQLFIup9Ut6mlcysePFtA&oe=6B0267BF",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Dfy-iCMINDF/",
+      "width": 360,
+      "height": 640,
+      "sha256": "c30bb60213074839def962aff229cdceee40d1e19aaa14f21906ee8494859ecb",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 8,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896596838_18439214665177570_3654920960288366807_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5uKuW_t8c4kQ7kNvwEXhc1K&_nc_oc=AdrJ49mfKQxixvFpIFbE5SPGuAJkZRUcN8WGqM43WenKuArHls89YsDjSs4lv7SJg-s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRn-gJ8D46jAWhlS5U6KFulusNjpF7uyL5RZFnF7Br96A&oe=6B027078",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Dfw0jcJoccb/",
+      "width": 360,
+      "height": 640,
+      "sha256": "715b73d3a55e26b2e8fda4f6a51f5605ee783ad7015dc21b3557d5032086fea2",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 9,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902094607_18439185664177570_7618000857177152949_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=F8O6y5ZZ83wQ7kNvwGL-wET&_nc_oc=AdqLoEJS8NWN-AyAWLTI18eJlSVB_oFJrKiCeSv91UuuE_ISRmj_FtxRaTA0vu7HXeo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQp7cDMKgEdTbAsKRhP7N7ggKntapLsPtUj1Lw4-_u5Cw&oe=6B0265D7",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfwjV6-ItT5/",
+      "width": 360,
+      "height": 640,
+      "sha256": "a04559017b1ba1464f599b9233ddf68ef1173d0c8069edc623e39ae766f7da9e",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 10,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910570410_18439175002177570_647933812025243677_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SthkDG4ofEsQ7kNvwGvFrQM&_nc_oc=Adow-_xRGu6qNBEcxB_WvjBL35AALRFwxiKJObdY80u4nZXfVfE7jmg8Zg24KIB3fng&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRCLyXteB08wPZlNp1Zqte8QQUcC9plrc9EOUeeGd182w&oe=6B027220",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfwZaLoo_2N/",
+      "width": 360,
+      "height": 640,
+      "sha256": "4e1db018d3ec5919fa57b0e06deb21df9aa4f5b5057f150b4393b0af7c6439f7",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 11,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/911029751_18439081828177570_3674670335032288158_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wqCpMeer53kQ7kNvwElzuCp&_nc_oc=Adq8pzSKvq1N4Tw7oeSx_U0KjUvoAY1yWVr0hD-q7wkIv-Hxc1Ou8Zntp5c9zuf2KM0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQT42Ur-4TpMnl6uNXkNWX05VlIGQTMc8CeG-oEPWm-Ndw&oe=6B02596B",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/Dfu95Q7Bi_T/",
+      "width": 360,
+      "height": 640,
+      "sha256": "2f2f58a87614c0d1ffd97af6390b36e16a758b3c07146b5226966fb9de8ff06f",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    },
+    {
+      "index": 12,
+      "path": "C:\\Projects\\prospect-research\\nov17-next-five\\zahr-boutique\\assets\\zahr-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896705720_18439018156177570_1048081783387335219_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sd3_l59h3XoQ7kNvwGNILGz&_nc_oc=AdqBLXjtydck2qdjpcdsV3_jbFN58JVqCDl3RpuJxVJ7gF697K4HDeoW94XM8fhKNHQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sGT7PWjecgOqOi7u48I8uw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSMWcMQYcXLxQXEC4HnA4kf1NuY0e0tRJqHA1kST9NTXg&oe=6B026DEB",
+      "sourcePost": "https://www.instagram.com/zahr.boutique/reel/DfuK78noao9/",
+      "width": 360,
+      "height": 640,
+      "sha256": "d28109c5812c14b1fa0891a9d5025d4607e74e02df0897e0580cdafcc4cbf5c4",
+      "sourceImageType": "Native public Reel-cover still; no video frames extracted",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiLabelObserved": null,
+      "bakedPriceTextObserved": false,
+      "observationMethod": "Exact rendered public profile currentSrc, exported using pageAssets; no URL changes or video frame extraction."
+    }
+  ],
+  "activityEvidence": "Own public Reels dated17 November2026, plus several dated14–16 November2026 visible in profile grid.",
+  "contactEvidence": "Sole public Instagram biography link is wa.me/96170791887. Current public Google listing and Facebook search result corroborate70 791887.",
+  "websiteCheck": {
+    "result": "No matching official website found in the checked public profile link and bounded handle/name/phone searches; an unlisted website cannot be ruled out.",
+    "queries": [
+      "\"zahr.boutique\" website shop",
+      "\"Zahr Boutique\" Lebanon website online shop",
+      "\"70791887\" website shop",
+      "\"Zahr Boutique\" Lebanon website"
+    ],
+    "checkedDate": "2026-11-17",
+    "sources": [
+      "https://www.instagram.com/zahr.boutique/",
+      "https://www.google.com/search?q=%22Zahr+Boutique%22+Lebanon+website",
+      "https://www.findglocal.com/LB/Beirut/1493346-6",
+      "https://www.facebook.com/zahrshop/"
+    ],
+    "ambiguity": "Google Maps result offers Add website. Google AI Overview asserted a partner Hijab Boutique without a source URL; this automated statement was not treated as verified. Instagram search snippets mix unrelated page comments and other boutiques, so their website names do not establish Zahr ownership."
+  },
+  "imageNotes": "12 unique native public Reel-cover JPEG stills, grouped into9looks, including repeated-view or alternate-colour groupings2/7,4/12and6/11. No video frames extracted or new generated imagery. Native360/361x640 photos should use narrow/contained layouts. No baked prices visible in selected covers. No AI labels observed in profile; underlying ownership/authenticity not independently established."
+}

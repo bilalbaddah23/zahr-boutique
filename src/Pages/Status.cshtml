@@ -1,0 +1,4 @@
+@page "/status/{code:int}"
+@attribute [Microsoft.AspNetCore.Mvc.IgnoreAntiforgeryToken]
+@{var code=Convert.ToInt32(RouteData.Values["code"]);if(code<400||code>599)code=404;Response.StatusCode=code;ViewData["Title"]=code==404?"Page not found":"A little interruption";}
+<section class="empty-state tall"><span class="eyebrow">@code / A DIFFERENT DIRECTION</span><h1>Let’s find<br/><em>your way back.</em></h1><p>@(code==404?"This page isn’t available, but there’s still a whole collection to explore.":code==429?"That was a lot of requests at once. Please wait a minute, then try again.":"Something interrupted that request. Please try again in a moment.")</p><a class="button" href="/shop">Explore pieces ↗</a></section>
