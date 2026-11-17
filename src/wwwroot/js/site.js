@@ -104,7 +104,7 @@
     const count = bag.reduce((s, x) => s + x.quantity, 0);
     $$('[data-bag-count]').forEach(e => { e.textContent = count; if (e.classList.contains('counter')) e.hidden = !count; });
     $$('[data-saved-count]').forEach(e => { e.textContent = saved.length; e.hidden = !saved.length; });
-    $$('[data-save]').forEach(b => { const yes = saved.includes(b.dataset.save), p = product(b.dataset.save); b.disabled = false; b.setAttribute('aria-pressed', String(yes)); b.setAttribute('aria-label', (yes ? 'Unsave ' : 'Save ') + (p?.name || 'piece')); if (b.classList.contains('detail-save')) { const text = [...b.childNodes].find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim()); if (text) text.textContent = yes ? ' Saved to your favourites' : ' Save to your favourites'; } });
+    $$('[data-save]').forEach(b => { const yes = saved.includes(b.dataset.save), p = product(b.dataset.save); b.disabled = false; b.setAttribute('aria-pressed', String(yes)); b.setAttribute('aria-label', (yes ? 'Unsave ' : 'Save ') + (p?.name || 'piece')); if (b.classList.contains('detail-save')) { const text = [...b.childNodes].find(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim()); if (text) text.textContent = yes ? (b.dataset.savedText || ' Saved to your favourites') : (b.dataset.saveText || ' Save to your favourites'); } });
     $$('[data-add-form] button[type="submit"]').forEach(b => { b.disabled = false; });
     $$('[data-saved-slot]').forEach(e => { e.hidden = !saved.includes(e.dataset.savedSlot); });
     const emptySaved = $('[data-empty-saved]'); if (emptySaved) emptySaved.hidden = !!saved.length;
